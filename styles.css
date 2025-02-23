@@ -1,0 +1,4 @@
+ytd-rich-section-renderer:has(ytd-reel-shelf-renderer),
+ytd-reel-shelf-renderer {
+  display: none !important;
+}
