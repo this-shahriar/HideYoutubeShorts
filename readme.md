@@ -1,4 +1,6 @@
 # Hide YouTube Shorts - Chrome Extension
+[See at Chrome Webstore]([https://www.google.com](https://chromewebstore.google.com/detail/hide-youtube-shorts/mcifacmkafeaiehoegamjgikoehllgae)){:target="_blank"}
+
 
 ## 📌 Overview
 
